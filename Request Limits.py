@@ -24,7 +24,7 @@ if __name__ == '__main__':
         token = input("Enter API Token:")
 
 
-# Testing
+# Testing - Request Limits 
 
 #patch request limits - max number of headers
 data = json.dumps({"max_number_of_headers": 40})
