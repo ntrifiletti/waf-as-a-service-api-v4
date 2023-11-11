@@ -24,7 +24,7 @@ if __name__ == '__main__':
         token = input("Enter API Token:")
 
 
-# Testing - Enable/Disable URL Protection Attack Libraries
+# Testing - Enable/Disable Basic Security - Active/Passive
 
 #patch
 data = json.dumps({"protection_mode": "Active"})
